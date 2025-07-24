@@ -26,7 +26,7 @@ corpo docente, destacando-se pela precisão nas recomendações., que me deu ain
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### LINGUAGENS
 
 <img 
     align="left" 
@@ -64,7 +64,7 @@ corpo docente, destacando-se pela precisão nas recomendações., que me deu ain
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### STATS
 
 <p>
   <img 
