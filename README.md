@@ -1,8 +1,10 @@
-# 👨🏻‍💻 Leo Nogueira Lemes
+# 👨🏻‍💻 Leonardo Nogueira
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Leo Nogueira Lemes, tenho XX anos e sou apaixonado por tecnologia. [Descrição personalizada será adicionada aqui.]
+Me chamo Leonardo Nogueira, tenho 25 anos, sou bacharel em Ciência da Computação e apaixonado por tecnologia. Gosto de programar, criar interfaces e resolver problemas. No momento, estou buscando entrar na área de desenvolvimento — meu foco é em frontend com React, mas estou aberto a qualquer oportunidade que me ajude a crescer profissionalmente.
+
+Durante a faculdade, desenvolvi um projeto de TCC voltado para [aqui você pode inserir o tema resumido, se quiser], que me deu ainda mais vontade de seguir nessa área. Tenho aprendido cada vez mais e estou sempre estudando e praticando para evoluir como dev.
 
 <p align="left">
     <a href="https://www.instagram.com/leonogueiralemes" target="_blank">
