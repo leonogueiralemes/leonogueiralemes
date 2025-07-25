@@ -66,4 +66,4 @@ corpo docente, destacando-se pela precisão nas recomendações., que me deu ain
 
 ### STATS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardonogueira&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonogueiralemes&show_icons=true&theme=tokyonight)
