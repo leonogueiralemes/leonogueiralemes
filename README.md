@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Leonardo Nogueira, tenho 25 anos, sou bacharel em Ciência da Computação. No momento, estou buscando entrar na área de desenvolvimento — meu foco é em frontend com React, mas estou aberto a qualquer oportunidade que me ajude a crescer profissionalmente.
+Me chamo Leonardo Nogueira, tenho 26 anos, sou bacharel em Ciência da Computação. No momento, estou buscando entrar na área de desenvolvimento — meu foco é em frontend com React, mas estou aberto a qualquer oportunidade que me ajude a crescer profissionalmente.
 
 Durante a faculdade, desenvolvi um sistema de recomendação de filmes com redes neurais, capaz de personalizar sugestões com base no histórico e preferências dos usuários. Criei uma interface moderna e intuitiva com HTML e CSS, integrando uma API para exibir recomendações dinâmicas. Utilizei Python, TensorFlow e bibliotecas de manipulação de dados. O projeto foi bem avaliado pelo
 corpo docente, destacando-se pela precisão nas recomendações., que me deu ainda mais vontade de seguir nessa área. Tenho aprendido cada vez mais e estou sempre estudando e praticando para evoluir como dev.
