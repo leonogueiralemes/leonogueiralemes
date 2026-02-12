@@ -73,7 +73,7 @@ Venho me dedicando intensamente nos últimos anos ao estudo e à prática de An�
     title="POWERBI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/e51d759f-26ed-4a65-892e-9820da61ace9](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)"
+    src="https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi"
 />
 
 
