@@ -67,15 +67,14 @@ Venho me dedicando intensamente nos últimos anos ao estudo e à prática de An�
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/e51d759f-26ed-4a65-892e-9820da61ace9"
 />
-<img 
-    align="left" 
-    alt="POWER BI"
-    title="POWER BI"
+<img
+    align="left"
+    alt="Power BI"
+    title="Power BI"
     width="30px"
-    style="padding-right: 10px;"
-    src="https://img.icons8.com/color/48/power-bi.svg"
+    style="padding-right:10px; float:left;"
+    src="https://svgmix.com/api/svg/png/z0mKEN/64"
 />
-
 <br/>
 <br/>
 
