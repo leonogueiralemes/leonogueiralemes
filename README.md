@@ -26,8 +26,7 @@ Venho me dedicando intensamente nos últimos anos ao estudo e à prática de An�
 
 ---
 
-### 𝐋𝐈𝐍𝐆𝐔𝐀𝐆𝐄𝐍𝐒 𝐄 𝐅𝐄𝐑𝐑𝐀𝐌𝐄𝐍𝐓𝐀𝐒
-
+### LINGUAGENS E FERRAMENTAS 
 <img 
     align="left" 
     alt="HTML"
