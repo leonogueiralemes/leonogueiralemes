@@ -69,13 +69,12 @@ Venho me dedicando intensamente nos últimos anos ao estudo e à prática de An�
 />
 <img 
     align="left" 
-    alt="POWERBI"
-    title="POWERBI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi"
+    alt="POWER BI"
+    title="POWER BI"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/color/48/power-bi.svg"
 />
-
 
 <br/>
 <br/>
