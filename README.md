@@ -1,11 +1,11 @@
-# 👨🏻‍💻 Leonardo Nogueira
+# Lᴇᴏɴᴀʀᴅᴏ Nᴏɢᴜᴇɪʀᴀ
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Leonardo Nogueira, tenho 26 anos, sou bacharel em Ciência da Computação. No momento, estou buscando entrar na área de desenvolvimento — meu foco é em frontend com React, mas estou aberto a qualquer oportunidade que me ajude a crescer profissionalmente.
+Mᴇ ᴄʜᴀᴍᴏ Lᴇᴏɴᴀʀᴅᴏ Nᴏɢᴜᴇɪʀᴀ, ᴛᴇɴʜᴏ 26 ᴀɴᴏs, sᴏᴜ ʙᴀᴄʜᴀʀᴇʟ ᴇᴍ Cɪᴇ̂ɴᴄɪᴀ ᴅᴀ Cᴏᴍᴘᴜᴛᴀᴄ̧ᴀ̃ᴏ. Nᴏ ᴍᴏᴍᴇɴᴛᴏ, ᴇsᴛᴏᴜ ʙᴜsᴄᴀɴᴅᴏ ᴇɴᴛʀᴀʀ ɴᴀ ᴀ́ʀᴇᴀ ᴅᴇ ᴀɴᴀʟɪsᴇ ᴅᴇ ᴅᴀᴅᴏs.
 
-Durante a faculdade, desenvolvi um sistema de recomendação de filmes com redes neurais, capaz de personalizar sugestões com base no histórico e preferências dos usuários. Criei uma interface moderna e intuitiva com HTML e CSS, integrando uma API para exibir recomendações dinâmicas. Utilizei Python, TensorFlow e bibliotecas de manipulação de dados. O projeto foi bem avaliado pelo
-corpo docente, destacando-se pela precisão nas recomendações., que me deu ainda mais vontade de seguir nessa área. Tenho aprendido cada vez mais e estou sempre estudando e praticando para evoluir como dev.
+Vᴇɴʜᴏ ᴍᴇ ᴅᴇᴅɪᴄᴀɴᴅᴏ ɪɴᴛᴇɴsᴀᴍᴇɴᴛᴇ ɴᴏs ᴜ́ʟᴛɪᴍᴏs ᴀɴᴏs ᴀᴏ ᴇsᴛᴜᴅᴏ ᴇ ᴀ̀ ᴘʀᴀ́ᴛɪᴄᴀ ᴅᴇ Aɴᴀ́ʟɪsᴇ ᴅᴇ Dᴀᴅᴏs, ᴄᴏᴍ ғᴏᴄᴏ ɴᴀ ᴄᴏʟᴇᴛᴀ, ᴏʀɢᴀɴɪᴢᴀᴄ̧ᴀ̃ᴏ, ᴛʀᴀᴛᴀᴍᴇɴᴛᴏ ᴇ ᴀɴᴀ́ʟɪsᴇ ᴅᴇ ɪɴғᴏʀᴍᴀᴄ̧ᴏ̃ᴇs ᴘᴀʀᴀ ᴀᴘᴏɪᴀʀ ᴀ ᴛᴏᴍᴀᴅᴀ ᴅᴇ ᴅᴇᴄɪsᴏ̃ᴇs. Pᴏssᴜᴏ ᴇxᴘᴇʀɪᴇ̂ɴᴄɪᴀ ᴄᴏᴍ SQL ᴘᴀʀᴀ ᴄᴏɴsᴜʟᴛᴀs, ᴇxᴛʀᴀᴄ̧ᴀ̃ᴏ, ᴍᴀɴɪᴘᴜʟᴀᴄ̧ᴀ̃ᴏ ᴇ ᴀɴᴀ́ʟɪsᴇ ᴅᴇ ᴅᴀᴅᴏs ᴇᴍ ʙᴀɴᴄᴏs ᴅᴇ ᴅᴀᴅᴏs ʀᴇʟᴀᴄɪᴏɴᴀɪs, ᴀʟᴇ́ᴍ ᴅᴇ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏs sᴏ́ʟɪᴅᴏs ᴇᴍ Exᴄᴇʟ ᴘᴀʀᴀ ᴏʀɢᴀɴɪᴢᴀᴄ̧ᴀ̃ᴏ, ᴀɴᴀ́ʟɪsᴇ ᴇ ᴠɪsᴜᴀʟɪᴢᴀᴄ̧ᴀ̃ᴏ ᴅᴇ ᴅᴀᴅᴏs.
+
 
 <p align="left">
     <a href="https://www.instagram.com/leonogueiralemes" target="_blank">
@@ -63,24 +63,6 @@ corpo docente, destacando-se pela precisão nas recomendações., que me deu ain
 
 <br/>
 <br/>
-
-### STATS
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leonogueiralemes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonogueiralemes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
 
