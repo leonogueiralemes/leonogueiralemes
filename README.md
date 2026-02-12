@@ -2,9 +2,9 @@
 
 **`𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 𝐃𝐄 𝐃𝐀𝐃𝐎𝐒`**
 
-Mᴇ ᴄʜᴀᴍᴏ Lᴇᴏɴᴀʀᴅᴏ Nᴏɢᴜᴇɪʀᴀ, ᴛᴇɴʜᴏ 26 ᴀɴᴏs, sᴏᴜ ʙᴀᴄʜᴀʀᴇʟ ᴇᴍ Cɪᴇ̂ɴᴄɪᴀ ᴅᴀ Cᴏᴍᴘᴜᴛᴀᴄ̧ᴀ̃ᴏ. Nᴏ ᴍᴏᴍᴇɴᴛᴏ, ᴇsᴛᴏᴜ ʙᴜsᴄᴀɴᴅᴏ ᴇɴᴛʀᴀʀ ɴᴀ ᴀ́ʀᴇᴀ ᴅᴇ ᴀɴᴀʟɪsᴇ ᴅᴇ ᴅᴀᴅᴏs.
+Me chamo Leonardo Nogueira, tenho 26 anos, sou bacharel em Ciência da Computação. No momento, estou buscando entrar na área de análise de dados.
 
-Vᴇɴʜᴏ ᴍᴇ ᴅᴇᴅɪᴄᴀɴᴅᴏ ɪɴᴛᴇɴsᴀᴍᴇɴᴛᴇ ɴᴏs ᴜ́ʟᴛɪᴍᴏs ᴀɴᴏs ᴀᴏ ᴇsᴛᴜᴅᴏ ᴇ ᴀ̀ ᴘʀᴀ́ᴛɪᴄᴀ ᴅᴇ Aɴᴀ́ʟɪsᴇ ᴅᴇ Dᴀᴅᴏs, ᴄᴏᴍ ғᴏᴄᴏ ɴᴀ ᴄᴏʟᴇᴛᴀ, ᴏʀɢᴀɴɪᴢᴀᴄ̧ᴀ̃ᴏ, ᴛʀᴀᴛᴀᴍᴇɴᴛᴏ ᴇ ᴀɴᴀ́ʟɪsᴇ ᴅᴇ ɪɴғᴏʀᴍᴀᴄ̧ᴏ̃ᴇs ᴘᴀʀᴀ ᴀᴘᴏɪᴀʀ ᴀ ᴛᴏᴍᴀᴅᴀ ᴅᴇ ᴅᴇᴄɪsᴏ̃ᴇs. Pᴏssᴜᴏ ᴇxᴘᴇʀɪᴇ̂ɴᴄɪᴀ ᴄᴏᴍ SQL ᴘᴀʀᴀ ᴄᴏɴsᴜʟᴛᴀs, ᴇxᴛʀᴀᴄ̧ᴀ̃ᴏ, ᴍᴀɴɪᴘᴜʟᴀᴄ̧ᴀ̃ᴏ ᴇ ᴀɴᴀ́ʟɪsᴇ ᴅᴇ ᴅᴀᴅᴏs ᴇᴍ ʙᴀɴᴄᴏs ᴅᴇ ᴅᴀᴅᴏs ʀᴇʟᴀᴄɪᴏɴᴀɪs, ᴀʟᴇ́ᴍ ᴅᴇ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏs sᴏ́ʟɪᴅᴏs ᴇᴍ Exᴄᴇʟ ᴘᴀʀᴀ ᴏʀɢᴀɴɪᴢᴀᴄ̧ᴀ̃ᴏ, ᴀɴᴀ́ʟɪsᴇ ᴇ ᴠɪsᴜᴀʟɪᴢᴀᴄ̧ᴀ̃ᴏ ᴅᴇ ᴅᴀᴅᴏs.
+Venho me dedicando intensamente nos últimos anos ao estudo e à prática de Análise de Dados, com foco na coleta, organização, tratamento e análise de informações para apoiar a tomada de decisões. Possuo experiência com SQL para consultas, extração, manipulação e análise de dados em bancos de dados relacionais, além de conhecimentos sólidos em Excel para organização, análise e visualização de dados.
 
 
 <p align="left">
@@ -26,7 +26,7 @@ Vᴇɴʜᴏ ᴍᴇ ᴅᴇᴅɪᴄᴀɴᴅᴏ ɪɴᴛᴇɴsᴀᴍᴇɴᴛᴇ ɴ�
 
 ---
 
-### LINGUAGENS
+### 𝐋𝐈𝐍𝐆𝐔𝐀𝐆𝐄𝐍𝐒 𝐄 𝐅𝐄𝐑𝐑𝐀𝐌𝐄𝐍𝐓𝐀𝐒
 
 <img 
     align="left" 
