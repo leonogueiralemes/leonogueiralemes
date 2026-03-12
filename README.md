@@ -1,10 +1,8 @@
 # Lᴇᴏɴᴀʀᴅᴏ Nᴏɢᴜᴇɪʀᴀ
 
-**`𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 𝐃𝐄 𝐃𝐀𝐃𝐎𝐒`**
+**`SUPORTE TI E DEVELOPER`**
 
-Me chamo Leonardo Nogueira, tenho 26 anos, sou bacharel em Ciência da Computação. No momento, estou buscando entrar na área de análise de dados.
-
-Venho me dedicando intensamente nos últimos anos ao estudo e à prática de Análise de Dados, com foco na coleta, organização, tratamento e análise de informações para apoiar a tomada de decisões. Possuo experiência com SQL para consultas, extração, manipulação e análise de dados em bancos de dados relacionais, além de conhecimentos sólidos em Excel para organização, análise e visualização de dados.
+Me chamo Leonardo Nogueira, tenho 26 anos, sou bacharel em Ciência da Computação. Atualmente atuo na area de Suporte Técnico.
 
 
 <p align="left">
