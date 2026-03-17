@@ -1,6 +1,6 @@
 # LEONARDO NOGUEIRA LEMES
 
-**`SUPORTE TI E DEVELOPER`**
+**`IT SUPPORT AND DATA ANALYST`**
 
 Me chamo Leonardo Nogueira, tenho 26 anos, sou bacharel em Ciência da Computação, atualmente atuo como suporte técnico. Estou estudando e me qualificando para no futuro atuar como Analista de Dados.
 
