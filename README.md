@@ -2,10 +2,6 @@
 
 **`PYTHON DEVELOPER`**
 
-I'm Leonardo, a Software Developer with a background in Computer Science, currently working as a Technical Support.
- 
-I have a strong interest and vocation in Python, with experience in web technologies and building practical solutions, including a movie recommendation system using neural networks and database integration..
-
 
 <p align="left">
     <a href="https://www.instagram.com/leonogueiralemes" target="_blank">
