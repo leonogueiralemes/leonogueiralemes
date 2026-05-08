@@ -1,6 +1,6 @@
 # LEONARDO NOGUEIRA LEMES
 
-**`IT SUPPORT AND PYTHON DEVELOPER`**
+**`PYTHON DEVELOPER`**
 
 I'm Leonardo, a Software Developer with a background in Computer Science, currently working as a Technical Support.
  
