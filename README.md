@@ -1,7 +1,5 @@
 # LEONARDO NOGUEIRA LEMES
 
-**`PYTHON DEVELOPER`**
-
 
 <p align="left">
     <a href="https://www.instagram.com/leonogueiralemes" target="_blank">
