@@ -63,6 +63,14 @@
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/e2772906-4096-4e5c-b1b4-40310b8b4cd8" 
 />
+<img 
+    align="left" 
+    alt="PHP"
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/php@0.0.0/php_256x256.png" 
+/>
 <br/>
 <br/>
 
