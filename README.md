@@ -2,14 +2,14 @@
 
 
 <p align="left">
-    <a href="https://www.instagram.com/leonogueiralemes" target="_blank">
+    <a href="https://www.instagram.com/leonarrrrrrrrrrdo" target="_blank">
         <img 
             alt="Instagram" 
             title="Siga no Instagram" 
             src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/leonarrrrrrrrrrdo" target="_blank">
+    <a href="https://www.linkedin.com/in/leonogueiralemes" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Conecte-se no LinkedIn" 
