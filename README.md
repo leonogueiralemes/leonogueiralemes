@@ -2,7 +2,7 @@
 <div align="center">
 
 # LEONARDO
-### `Computer Science | IT | Data Analytics`
+### `Computer Science Degree | IT |`
 
 </div>
 ```
