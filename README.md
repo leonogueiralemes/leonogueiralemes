@@ -5,18 +5,6 @@
 ### `Computer Science | IT | Data Analytics`
 
 </div>
-
-```text
-                    .-------------------------.
-                    |                         |
-                    |      SYSTEM ONLINE      |
-                    |                         |
-                    |   > Initializing...     |
-                    |   > Loading projects    |
-                    |   > Learning new tech  |
-                    |   > Building the future|
-                    |                         |
-                    '-------------------------'
 ```
 
 ```yaml
