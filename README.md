@@ -1,78 +1,75 @@
-# LEONARDO NOGUEIRA LEMES
 
+<div align="center">
 
-<p align="left">
-    <a href="https://www.instagram.com/leonarrrrrrrrrrdo" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Siga no Instagram" 
-            src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/leonogueiralemes" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
+# LEONARDO
+### `Computer Science | IT | Data Analytics`
+
+</div>
+
+```text
+                    .-------------------------.
+                    |                         |
+                    |      SYSTEM ONLINE      |
+                    |                         |
+                    |   > Initializing...     |
+                    |   > Loading projects    |
+                    |   > Learning new tech  |
+                    |   > Building the future|
+                    |                         |
+                    '-------------------------'
+```
+
+```yaml
+leonardo@github
+-------------------------
+OS: Windows 11 / Linux
+Education: Computer Science
+Uptime: Always learning
+
+Languages:
+  Python
+  JavaScript
+  SQL
+  HTML
+  CSS
+
+Technologies:
+  Power BI
+  MySQL
+  Git
+  GitHub
+  React
+  Flask
+  REST APIs
+
+Interests:
+  Data Analytics
+  Software Development
+  IT Support
+  Cybersecurity
+
+Currently:
+  Learning Data Analytics
+  Exploring Linux
+  Building Projects
+```
 
 ---
 
-### LINGUAGENS E FERRAMENTAS 
+<div align="center">
 
-<img 
-    align="left" 
-    alt="PYTHON"
-    title="PYTHON"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"
-/>
+### GITHUB STATISTICS
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/e2772906-4096-4e5c-b1b4-40310b8b4cd8" 
-/>
-<img 
-    align="left" 
-    alt="PHP"
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/php@0.0.0/php_256x256.png" 
-/>
-<br/>
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
 
+</div>
+
+---
+
+<div align="center">
+
+`BUILD • LEARN • REPEAT`
+
+</div>
